@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48ce6789-23a6-48df-b561-d6e41e536714" name="Default" comment="" />
+    <list default="true" id="48ce6789-23a6-48df-b561-d6e41e536714" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -36,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="weather-report.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="weather-report.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/weather-report/weather-report.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="563">
@@ -44,6 +46,16 @@
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="776">
+              <caret line="2444" column="279" lean-forward="false" selection-start-line="2444" selection-start-column="279" selection-end-line="2444" selection-end-column="279" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -115,6 +127,7 @@
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/services/weather-service.js" />
         <option value="$PROJECT_DIR$/src/weather-report/weather-report.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -221,12 +234,12 @@
       <option name="presentableId" value="Default" />
       <updated>1527705438554</updated>
       <workItem from="1527705439912" duration="1045000" />
-      <workItem from="1527750992744" duration="16733000" />
+      <workItem from="1527750992744" duration="16941000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17778000" />
+    <option name="totallyTimeSpent" value="17986000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="40" width="1857" height="1092" extended-state="6" />
@@ -384,6 +397,14 @@
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="776">
+          <caret line="2444" column="279" lean-forward="false" selection-start-line="2444" selection-start-column="279" selection-end-line="2444" selection-end-column="279" />
+          <folding />
         </state>
       </provider>
     </entry>
