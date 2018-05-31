@@ -16,4 +16,5 @@ Assuming that Angular CLI is already installed in your machine. If not follow th
 
 **Enhancments** 
 * Currently I didn't got chance to implement **Flux/Redux** with this project,But we can use it in future for better data flow through application 
-* We can also modularize the code though I've modularize it upto some level. And also saperate some code(specify the Router in different file)
+* We can also modularize the code though I've modularize it upto some level due to time constraint(like specify the Router in different file, etc)
+* We need to apply pagination to data grid on Weather Details page.
