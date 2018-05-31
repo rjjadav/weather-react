@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+
+  background: #f8f8f8;
+}
+
+
+.content {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+
+.full-width {
+  width: 100%;
+}
